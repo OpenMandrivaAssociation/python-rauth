@@ -1,6 +1,6 @@
 Name:		python-rauth
 Version:	0.7.3
-Release:	1
+Release:	2
 Summary:	A Python library for OAuth 1.0/a, 2.0, and Ofly
 License:	MIT
 Group:		Development/Python
